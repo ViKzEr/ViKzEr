@@ -1,6 +1,6 @@
 - 👋 Hi, I’m V1Kz3r
-- 👀 I’m interested in Unity C#
-- 🌱 I’m currently learning C#, Games Develop, PHP
+- 👀 I’m interested in C# and Game Development
+- 🌱 I’m currently learning C#, Games Development, PHP
 
 <!---
 ViKzEr/ViKzEr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
